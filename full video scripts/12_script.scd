@@ -1,5 +1,3 @@
-12_script
-
 Hey everybody, welcome to tutorial 12. In this video, I'm gonna continue with OSC and show you the basics of getting wiimote data into SuperCollider, and using it to control sound. Out of necessity, this video is gonna be fairly specific to Mac OS. So if you're on another operating system, you might not find this video quite as helpful. But I'll try to put some useful information in the video description. Also, if you haven't watched the previous tutorial, I recommend you do so before watching this one, because it covers some fundamentals on the OSC protocol which in this video I'll sort of gloss over.
 
 The Wiimote is a bluetooth device, so the basic process is to connect one or more wiimotes to your computer via bluetooth, translate that data into OSC messages, and then receive these messages in SuperCollider.

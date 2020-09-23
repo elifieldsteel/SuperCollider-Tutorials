@@ -1,5 +1,3 @@
-13_script
-
 Hey everybody, welcome to tutorial 13. This'll be the third and final installment on OSC. In this video I'll be showing how to use the XBox Kinect Sensor to manipulate sound in real-time.
 
 There's a variety of software out there designed to translate motion data from the Kinect into OSC messages. You can check out the video description below for a few links and resources. For this tutorial, I'm going to be using a program called Synapse, developed by Ryan Challinor. I'm not claiming Synapse is objectively the best option, but it's the one I understand most clearly, it's simple, it's free, and it works right out of the box. In this video I'm on Mac 10.8.5, but keep in mind that what you see in this tutorial might not work for your setup at home, and if that's the case, the reality is that you just might have to do some research on your own. It's impractical for me to cover all the different options in these videos, but my hope is that what you do see in these tutorials will at least give you a push in the right direction.

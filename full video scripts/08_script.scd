@@ -1,4 +1,4 @@
- Hey everyone, welcome to tutorial number 8. In this video I'll discuss the Buffer object
+Hey everyone, welcome to tutorial number 8. In this video I'll discuss the Buffer object
 
 [open buffer help file]
 

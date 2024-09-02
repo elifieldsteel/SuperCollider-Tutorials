@@ -81,8 +81,7 @@ s.waitForBoot({
 	}).add;
 
 	SynthDef(\pul, {
-		var sig, env, rq = \rq.ir(0.7);
-		rq = rq.clip(0.0001, 1);
+		var sig, env;
 		env = Env.linen(
 			\atk.ir(0.001), \sus.ir(0), \rel.ir(0.5),
 			curve: [\ca.ir(-1), 0, \cr.ir(-4)]
